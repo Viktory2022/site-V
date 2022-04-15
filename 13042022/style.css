@@ -12,7 +12,7 @@ body {
 }
 
 body {
-   background-color: black; 
+   background-color: white; 
    background-size: auto;
 
 }
@@ -50,3 +50,13 @@ body {
       font-size: 3.5rem;
     }
   }
+
+
+  .container-carousel {
+    width: 1400px;
+    height: 800px;
+  }
+
+  /* .carousel-item img {
+      margin: -10%;
+  } */
